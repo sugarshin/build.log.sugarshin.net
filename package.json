@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/sugarshin/build.blog.sugarshin.net.git"
   },
+  "engines": {
+    "node": "12.4.0"
+  },
   "author": "sugarshin",
   "license": "MIT",
   "bugs": {
@@ -20,7 +23,7 @@
   "homepage": "https://github.com/sugarshin/build.blog.sugarshin.net#readme",
   "dependencies": {
     "minimist": "1.2.0",
-    "ms": "2.1.1",
+    "ms": "2.1.2",
     "node-fetch": "1.7.3"
   }
 }
